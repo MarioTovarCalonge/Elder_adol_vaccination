@@ -8,7 +8,7 @@ System requirements:
 
 -R packages: "ggplot2", "cowplot", "fanplot", "gridExtra", "minpack.lm", "nlsr", "iterators", "foreach", "doParallel", "dplyr".
 
-Once R and gcc are available, no explicit installation, or special hardware is needed. When running the master scripts provided, C codes will be compiled as external libraries. R libraries will be installed automatically, although installation success depends upon R's version. If R packages are not installed, please install them manually.
+Once R and gcc are available, no explicit installation, or special hardware is needed. When running the master scripts provided, C codes will be compiled as external libraries. If R packages are not installed, please install them manually.
 
 Please note that: -Folder's names should be preserved. Otherwise errors will be raised as scripts need the correct paths for working properly.
 
