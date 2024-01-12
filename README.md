@@ -23,5 +23,5 @@ Outputs/
 
 Then, execute the master script launch.sh via bash.
 The code then will compute the simulation of introducing the studied vaccine in adolescents and elders, under both contact matrix update schemes. This will take around 6-8h depending on the computer.
-The output will be located inside the Codes/Plotting_codes/ folder, in which 2 plots that depict the impacts in both populations, formally equivallent to those in the paper, will be created.
+The output will be located inside the Codes/Plotting_codes/ folder, in which 2 plots that depict the impacts in both populations, the same as those in the paper, will be created.
 
